@@ -5933,7 +5933,7 @@ header.is-sticky {
   padding: 25px 19px;
 }
 .main-nav-list li a:hover {
-  text-decoration: underline;
+  color: #94A2B3;
 }
 .main-nav-list li a.main-nav-list__active {
   font-family: "Poppins", sans-serif;
